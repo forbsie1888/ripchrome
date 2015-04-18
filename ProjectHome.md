@@ -1,0 +1,1 @@
+This project is a port of my Firefox remove it permanently extension to chrome. The code is a complete rewrite (except for some basic core functions) but it should import firefox .rip files for compatibility.
